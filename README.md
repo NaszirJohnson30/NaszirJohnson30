@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/NaszirJohnson30/ActiveDirectoryLab)
-  - [Port Scanner - PyCharm] 
+  - [Port Scanner - PyCharm](https://github.com/NaszirJohnson30/NaszirJohnson30/blob/main/PortScanner.py)
 
 <h2>📺Certifications</h2>
 
